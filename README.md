@@ -1,5 +1,22 @@
-# Tiago Airosa
-<img src="https://camo.githubusercontent.com/82744c31ec5e4f478ec83872a56fadba23da5ef6c14d211ad5277efb83d2c1cf/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f636f6c6f723d3030626662662673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d48454c4c4f2c2b4d592b4e414d452b69732b4d6174686575732b4d6169612b416c766172657a3b49276d2b31392b79656172732b6f6c643b492b616d2b66726f6d2b436172617069637525433325414462612c2b53503b492b73747564792b616e616c797369732b616e642b73797374656d732b646576656c6f706d656e742b61742b53656e61633b42652b57656c636f6d65212b3a253239" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+MY+NAME+is+Tiago+Airosa;I'm+29+years+old;I+am+from+SJC%C3%ADba,+SP;I+study+Data+Science+in+DNC++and+Ciencias+da+Computação+at+Unip;Be+Welcome!+:%29" style="max-width: 100%;">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Tiago+Airosa;I'm+29+years+old;I+am+from+SJC,+SP;I+study+Data+Science+in+DNC+and;Computer+Science+at+Unip;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=airosa32&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Tiago Airosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airosa32&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=airosa32&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=airosa32&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+<a href="https://www.instagram.com/tiago_airosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
 
 ## Sobre Mim
 
@@ -14,19 +31,19 @@ possibilidade de realizar um MBA nessas áreas no futuro.
 
 ### Linguagens de Programação
 
-- Java (Expert)
-- Python (Expert)
-- C
-- JavaScript
+- ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=FFA500&labelColor=0D1117)
+- ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)
+- ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
 
 ### Frontend
 
-- HTML
-- CSS
+- ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)
+- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
 
 ### Banco de Dados
 
-- MySQL
+- ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)
 
 ### Ciência de Dados e Machine Learning
 
@@ -71,3 +88,10 @@ Machine Learning. Se você tem ideias para projetos interessantes ou oportunidad
 
 Estou aberto para conexões profissionais e discussões sobre tecnologia, ciência de dados e projetos 
 inovadores. Vamos colaborar e impulsionar o futuro da tecnologia juntos!
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{airosa32}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
