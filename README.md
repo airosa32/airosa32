@@ -63,9 +63,10 @@ Machine Learning. Se você tem ideias para projetos interessantes ou oportunidad
 
 ## Contato
 
-- E-mail: seu-email@exemplo.com
+- E-mail: airosa32@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tiago-airosa-b803b3206/
-- GitHub: [Seu GitHub](https://github.com/seu-usuario)
+- GitHub: https://github.com/airosa32
+- Phone: +55 12988082556
 
 Estou aberto para conexões profissionais e discussões sobre tecnologia, ciência de dados e projetos 
 inovadores. Vamos colaborar e impulsionar o futuro da tecnologia juntos!
