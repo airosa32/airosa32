@@ -20,12 +20,12 @@
 
 ## Sobre Mim
 
-Olá! Sou Tiago Airosa, um entusiasta de tecnologia e ciência de dados. Possuo um sólido background em 
-diversas áreas, incluindo hardware, redes, data science, machine learning, deep learning, gestão da 
-qualidade e estatística. Atualmente, estou cursando Ciências da Computação e tenho planos de fazer 
-uma segunda graduação em Matemática, seguida de mestrado e doutorado em Data Science. Além disso, 
-tenho interesse em expandir meus conhecimentos em Big Data e Cloud Computing, considerando a 
-possibilidade de realizar um MBA nessas áreas no futuro.
+<div align="center">
+  <p style="font-size: 18px; color: #00bfbf;">Olá! Sou Tiago Airosa, um entusiasta de tecnologia e ciência de dados.</p>
+  <p style="font-size: 16px; color: #c9d1d9;">Possuo um sólido background em diversas áreas, incluindo hardware, redes, data science, machine learning, deep learning, gestão da qualidade e estatística.</p>
+  <p style="font-size: 16px; color: #c9d1d9;">Atualmente, estou cursando Ciências da Computação e tenho planos de fazer uma segunda graduação em Matemática, seguida de mestrado e doutorado em Data Science.</p>
+  <p style="font-size: 16px; color: #c9d1d9;">Além disso, tenho interesse em expandir meus conhecimentos em Big Data e Cloud Computing, considerando a possibilidade de realizar um MBA nessas áreas no futuro.</p>
+</div>
 
 ## Áreas de Tecnologia e Conhecimentos
 
