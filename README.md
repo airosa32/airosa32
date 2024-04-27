@@ -64,7 +64,7 @@ Machine Learning. Se você tem ideias para projetos interessantes ou oportunidad
 ## Contato
 
 - E-mail: seu-email@exemplo.com
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
+- LinkedIn: https://www.linkedin.com/in/tiago-airosa-b803b3206/
 - GitHub: [Seu GitHub](https://github.com/seu-usuario)
 
 Estou aberto para conexões profissionais e discussões sobre tecnologia, ciência de dados e projetos 
