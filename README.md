@@ -57,10 +57,4 @@ Estou focado em aprimorar minhas habilidades em **Data Science**, **Machine Lear
 
 ## 📊 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=airosa32&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" />
-</div>
-
-### Contributions in the Last Year
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=airosa32&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=airosa32&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)
