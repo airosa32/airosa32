@@ -55,18 +55,6 @@ Estou focado em aprimorar minhas habilidades em **Data Science**, **Machine Lear
 - [CriandoDW_SQLEMPVinicola](https://github.com/airosa32/CriandoDW_SQLEMPVinicola) - Projeto de Data Warehouse para uma vinícola.
 - [Ecommerce_EXPAnalysisSQL](https://github.com/airosa32/Ecommerce_EXPAnalysisSQL) - Análise de dados de e-commerce para otimização de vendas.
 
-## 📈 Pinned Repositories
+# 📊 GitHub Stats
 
-- [Analiseclientes_Edtech](https://github.com/airosa32/Analiseclientes_Edtech) - Análise de dados aplicada ao setor educacional.
-- [AnaliseTRIM_AgenciaMKTDIGITAL](https://github.com/airosa32/AnaliseTRIM_AgenciaMKTDIGITAL) - Análise de campanhas de marketing digital para agências.
-- [PredicaoDeVendasPub](https://github.com/airosa32/PredicaoDeVendasPub) - Previsão de vendas utilizando técnicas de machine learning.
-- [AnaliseVarejo](https://github.com/airosa32/AnaliseVendasVarejo) - Análise de vendas e comportamento de consumidores no varejo.
-- [CriandoDW_SQLEMPVinicola](https://github.com/airosa32/CriandoDW_SQLEMPVinicola) - Projeto de Data Warehouse para uma vinícola.
-- [Ecommerce_EXPAnalysisSQL](https://github.com/airosa32/Ecommerce_EXPAnalysisSQL) - Análise de dados de e-commerce para otimização de vendas.
-
-# 📊 Contribution Graph
-
-<div style="border: 2px solid #15e5a6; padding: 20px; border-radius: 8px;">
-  <p><strong>424 contributions in the last year</strong></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=airosa32&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+![Airosa32's GitHub stats](https://github-readme-stats.vercel.app/api?username=airosa32&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
