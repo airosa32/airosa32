@@ -1,6 +1,6 @@
 # Olá! Eu sou o Tiago Airosa 👋
 
-## 🗨 Resumo
+## 🗨 Sobre min:
 
 Sou graduando em **Ciência de Dados** e **Ciências da Computação**, com uma sólida base em **análises diagnósticas e preditivas**, **consultas complexas de dados** e **processos de ETL**. Tenho experiência com **Python, SQL, Excel**, e plataformas de **Business Intelligence (Power BI, Metabase)** para criar visualizações e comunicar insights. 
 
