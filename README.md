@@ -2,9 +2,9 @@
 
 ## 🗨 Sobre min:
 
-🎓 **Graduando em Ciência de Dados e Ciências da Computação**, com experiência em **análises diagnósticas e preditivas**, consultas complexas de dados e processos de **ETL**.
+🎓 **Graduando em Ciência de Dados e Ciências da Computação**, com experiência em **análises diagnósticas e preditivas**, **consultas complexas de dados**, e **processos de ETL**.
 
-💻 Proficiência em **Python**, **SQL**, **Excel**, e plataformas de **Business Intelligence (Power BI, Metabase)** para criar **visualizações impactantes** e comunicar insights de forma clara.
+💻 Experiência prática com **Python**, **SQL**, **Excel** e plataformas de **Business Intelligence (Power BI, Metabase)** para criar **visualizações impactantes** e comunicar insights de forma clara.
 
 🚀 **Objetivo:** Crescer constantemente em **Data Science**, **Machine Learning**, **Big Data**, e **Cloud Computing**, contribuindo com soluções de dados para o sucesso de negócios e organizações.
 
