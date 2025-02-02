@@ -64,6 +64,8 @@ Estou focado em aprimorar minhas habilidades em **Data Science**, **Machine Lear
 - [CriandoDW_SQLEMPVinicola](https://github.com/airosa32/CriandoDW_SQLEMPVinicola) - Projeto de Data Warehouse para uma vinícola.
 - [Ecommerce_EXPAnalysisSQL](https://github.com/airosa32/Ecommerce_EXPAnalysisSQL) - Análise de dados de e-commerce para otimização de vendas.
 
-### 📊 Contribution Graph
+## 📊 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=airosa32&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)
+
+### 424 contributions in the last year
