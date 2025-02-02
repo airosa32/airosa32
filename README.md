@@ -9,14 +9,19 @@ Estou focado em aprimorar minhas habilidades em **Data Science**, **Machine Lear
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=1572B6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Metabase-0D1117?style=for-the-badge&logo=metabase&logoColor=00bfbf&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Deep_Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=4B8BBE" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=336791" />
+  <img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=FFFFFF&labelColor=F2C811" />
+  <img src="https://img.shields.io/badge/Metabase-0D1117?style=for-the-badge&logo=metabase&logoColor=FFFFFF&labelColor=2E5B68" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=4479A1" />
+  <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF&labelColor=217346" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF&labelColor=F7931E" />
+  <img src="https://img.shields.io/badge/Deep_Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF&labelColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=FF5722" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=FFFFFF&labelColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=aws&logoColor=FFFFFF&labelColor=232F3E" />
+  <img src="https://img.shields.io/badge/Big_Data-0D1117?style=for-the-badge&logo=hadoop&logoColor=FFFFFF&labelColor=66CC66" />
 </div>
 
 ## 🌐 Let's Connect
