@@ -46,15 +46,9 @@ Estou focado em aprimorar minhas habilidades em **Data Science**, **Machine Lear
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airosa32&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## 📈 Pinned Repositories
+<h2 align="left">📊 Github Stats</h2> 
 
-- [Analiseclientes_Edtech](https://github.com/airosa32/Analiseclientes_Edtech) - Análise de dados aplicada ao setor educacional.
-- [AnaliseTRIM_AgenciaMKTDIGITAL](https://github.com/airosa32/AnaliseTRIM_AgenciaMKTDIGITAL) - Análise de campanhas de marketing digital para agências.
-- [PredicaoDeVendasPub](https://github.com/airosa32/PredicaoDeVendasPub) - Previsão de vendas utilizando técnicas de machine learning.
-- [AnaliseVarejo](https://github.com/airosa32/AnaliseVarejo) - Análise de vendas e comportamento de consumidores no varejo.
-- [CriandoDW_SQLEMPVinicola](https://github.com/airosa32/CriandoDW_SQLEMPVinicola) - Projeto de Data Warehouse para uma vinícola.
-- [Ecommerce_EXPAnalysisSQL](https://github.com/airosa32/Ecommerce_EXPAnalysisSQL) - Análise de dados de e-commerce para otimização de vendas.
-
-# 📊 GitHub Stats
-
-![Airosa32's GitHub stats](https://github-readme-stats.vercel.app/api?username=airosa32&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<div>
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=philippeizidorio&show_icons=true&theme=holi"/>
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippeizidorio&layout=compact&theme=holi"/>
+</div>
