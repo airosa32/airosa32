@@ -17,9 +17,10 @@ Estou focado em aprimorar minhas habilidades em **Data Science**, **Machine Lear
   <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF&labelColor=217346" />
   <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF&labelColor=F7931E" />
   <img src="https://img.shields.io/badge/Deep_Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF&labelColor=FF6F00" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=FF5722" />
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=FFFFFF&labelColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=FFFFFF&labelColor=E97627" />
+  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF&labelColor=F5A623" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FFFFFF&labelColor=150458" />
+  <img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=seaborn&logoColor=FFFFFF&labelColor=7D68A4" />
   <img src="https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=aws&logoColor=FFFFFF&labelColor=232F3E" />
   <img src="https://img.shields.io/badge/Big_Data-0D1117?style=for-the-badge&logo=hadoop&logoColor=FFFFFF&labelColor=66CC66" />
 </div>
