@@ -2,9 +2,11 @@
 
 ## 🗨 Sobre min:
 
-Sou graduando em **Ciência de Dados** e **Ciências da Computação**, com uma sólida base em **análises diagnósticas e preditivas**, **consultas complexas de dados** e **processos de ETL**. Tenho experiência com **Python, SQL, Excel**, e plataformas de **Business Intelligence (Power BI, Metabase)** para criar visualizações e comunicar insights. 
+🎓 **Graduando em Ciência de Dados e Ciências da Computação**, com experiência em **análises diagnósticas e preditivas**, consultas complexas de dados e processos de **ETL**.
 
-Estou focado em aprimorar minhas habilidades em **Data Science**, **Machine Learning**, **Deep Learning**, **Big Data** e **Cloud Computing**. Meu objetivo é seguir crescendo e contribuir com soluções de dados impactantes para o sucesso de negócios e organizações.
+💻 Proficiência em **Python**, **SQL**, **Excel**, e plataformas de **Business Intelligence (Power BI, Metabase)** para criar **visualizações impactantes** e comunicar insights de forma clara.
+
+🚀 **Objetivo:** Crescer constantemente em **Data Science**, **Machine Learning**, **Big Data**, e **Cloud Computing**, contribuindo com soluções de dados para o sucesso de negócios e organizações.
 
 ## 💻 Tech Stack
 
